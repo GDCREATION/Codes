@@ -1,2 +1,0 @@
-CourseScheduleHard.java
-ThreeSumHard.java
