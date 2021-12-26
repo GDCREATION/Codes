@@ -6,7 +6,7 @@ public class TowerOfHanoi {
 		Scanner sc = new Scanner(System.in);
 		int nm = sc.nextInt();
 		towerOfHonai(nm,"A","C","B");
-		sc.close()
+		sc.close();
 	}
 
 	private static void towerOfHonai(int nm, String s1, String s2, String s3) {
